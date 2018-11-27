@@ -1,0 +1,6 @@
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming III Memory Management and Multi-threading\Lab4\AdvConsoleAppIV\AdvConsoleAppIV\bin\Debug\AdvancedConsoleApplicationIV.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming III Memory Management and Multi-threading\Lab4\AdvConsoleAppIV\AdvConsoleAppIV\bin\Debug\AdvancedConsoleApplicationIV.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming III Memory Management and Multi-threading\Lab4\AdvConsoleAppIV\AdvConsoleAppIV\obj\x86\Debug\AdvancedConsoleApplicationIV.csprojAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming III Memory Management and Multi-threading\Lab4\AdvConsoleAppIV\AdvConsoleAppIV\obj\x86\Debug\AdvancedConsoleApplicationIV.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming III Memory Management and Multi-threading\Lab4\AdvConsoleAppIV\AdvConsoleAppIV\obj\x86\Debug\AdvancedConsoleApplicationIV.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming III Memory Management and Multi-threading\Lab4\AdvConsoleAppIV\AdvConsoleAppIV\obj\x86\Debug\AdvancedConsoleApplicationIV.pdb
